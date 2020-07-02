@@ -10,6 +10,11 @@
 > Text-Rank.
 
 > Content-based filter.
-## Tools
+## Built With
 > - HTML/PHP 
 > - PYTHON
+## Authors
+> - Alaa Mohamed - Allaa24991@gmail.com 
+> - Marwan Ibrahim - Marwann.ibrahim@hotmail.com
+> - Mayar Yasser - Meroyasser666@gmail.com
+> - Mohammed Ayman - muhammedayman44@gmail.com
