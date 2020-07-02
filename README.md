@@ -1,6 +1,6 @@
 # **News Aggregator System**
  It's simply an online software which collects new stories and events around the world from various sources all in one place. 
-npm install datadog-metrics --save
+
 ### What does the system do ?
 #### Summarization
 > Summarize aggregated news from various sources in one article.
